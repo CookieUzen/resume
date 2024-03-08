@@ -45,25 +45,25 @@
     #term[Sep 2022 --- May 2026][Wisconsin, US]
 
     - Sophomore student working towards a B.S in Computer Science (In Progress).
-    - Cumulative GPA of 3.6/4.0
+    - Cumulative GPA of 3.7/4.0
 
     == Interests
 
-    - NeoVim/Arch Linux (#styled-link("https://github.com/CookieUzen/dotfiles")[dotfiles])
+    - NeoVim/Exploring different flavors of Linux (#styled-link("https://github.com/CookieUzen/dotfiles")[dotfiles])
     - Cyber Security and Natural Language Processing
     - Hypervisors and Containers
-    - Networking with Bird and Wireguard
+    - Networking with Tailscale
     - Computer hardware and building systems
     
     #colbreak()
     == Projects
 
     ==== Homelab\
-    - Hosted various service across Vultr (vps) and on-premise bare metal servers
-    - Used Proxmox VE hypervisor and Docker containers to host Nextcloud, Mail, Game Servers, and a variety of other services
-    - Adept at storage technology with RAID, ZFS, and SMB shares
+    - Hosted various service across geological regions on cloud services and on-premise bare metal servers
+    - Using Proxmox VE hypervisor and Docker to host Nextcloud, Mail, Game Servers, and other services
+    - Adept at storage technology with RAID, ZFS, and SMB
     - Familiar with Ubuntu and RHEL based operating systems
-    - Experienced with networking, reverse proxying, remote accessing services via Wireguard and Caddy
+    - Experienced with networking, reverse proxying, remote accessing services via Tailscale, Wireguard and Caddy
     - Familiar DNS for domain resolution
     - Managed backup and recovery of services with snapshot management via Proxmox Backup Server
 
@@ -75,13 +75,12 @@
     - Employs API keys and session tokens for authentication
 
     ==== Keyboard Design\
-    - Designed and created #styled-link("https://github.com/catmunch/macrocat")[MacroCat], a 3D printed macropad
+    - Designed and manufactured #styled-link("https://github.com/catmunch/macrocat")[MacroCat], a 3D printed macropad
     - Case designed using OpenScad, a 3D modeling programing language
     - Assembled and modified #styled-link("https://github.com/foostan/Crkbd")[crkbd] with ZMK to support bluetooth
-    - Soldered SMD components using both soldering iron and hot air station
 
     ==== LLM Research\
-    - Working on a collection of attack vectors for Large Language Models
+    - Worked on a collection of attack vectors for Large Language Models
 
     ==== #styled-link("https://github.com/CookieUzen/bad-apple-tty")[Bad Apple TTY]\
     - A simple terminal video player written in Go
@@ -89,14 +88,15 @@
     - Optimized for low latency and allows frameskipping for slow terminals
 
     ==== #styled-link("https://web-notes.xyz")[Web Notes]\
-    - Collection of study notes hosted via Jekyll on GitHub Pages
+    - High school project to provide IB DP study notes hosted via Jekyll on GitHub Pages
     - Written in markdown, html, and KaTeX
 
     == Skills
     - Experienced with Linux system administration
-    - Experienced with Docker, Proxmox, Caddy, Wireguard
-    - Familiar with Python, Go, Java, Bash
+    - Experienced with Docker, Proxmox, Caddy, Wireguard, Tailscale
+    - Familiar with Python, Go, Java, Bash, C
     - Familiar with common Unix tools such as Vim, SSH, Grep, Sed, etc.
-    - Novice in databases such as MongoDB and Sqlite
+    - Novice in databases such as MongoDB, Sqlite, and Cassandra
+    - Learning streaming frameworks such as Kafka
   ],
 )
