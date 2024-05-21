@@ -38,6 +38,13 @@
     - Participated in #styled-link("https://defcon.org/html/defcon-31/dc-31-contest-results.html")[DEF CON CTF 2023] as a member of _#link("https://ctftime.org/team/222421")[P1G BuT S4D]_
     - Continues to participate in CTFs with _#styled-link("https://r3kapig.com/")[r3kapig]_
 
+    === Caltech Hackathon 2024
+    #term[Apr 2024][Remote]
+
+    Participated and won the #link("https://hacktech2024.devpost.com/")["Caltech Hackathon 2024"] Beginner track.
+    - Developed #styled-link("https://devpost.com/software/health-conditions-vitapredict")[VitaPredict] with a team of 4
+    - a python based web app that predicts risk of skin cancer based on a self trained model
+
     == Education
 
     === Higher Level \
@@ -45,7 +52,9 @@
     #term[Sep 2022 --- May 2026][Wisconsin, US]
 
     - Sophomore student working towards a B.S in Computer Science (In Progress).
-    - Cumulative GPA of 3.7/4.0
+    - Cumulative GPA of 3.6/4.0
+
+    #colbreak()
 
     == Interests
 
@@ -55,7 +64,6 @@
     - Networking with Tailscale
     - Computer hardware and building systems
     
-    #colbreak()
     == Projects
 
     ==== Homelab\
@@ -91,6 +99,7 @@
     - High school project to provide IB DP study notes hosted via Jekyll on GitHub Pages
     - Written in markdown, html, and KaTeX
 
+    #colbreak()
     == Skills
     - Experienced with Linux system administration
     - Experienced with Docker, Proxmox, Caddy, Wireguard, Tailscale
