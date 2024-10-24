@@ -10,16 +10,26 @@
   ),
   tagline: [Computer Science student exploring new platforms of computation],
   [
-    == Experience
+    == Internship
 
-    === Internship\
-    _Tencent Security Xuanwu Lab_\
+    === _Eccom HK_\
+	#term[July 2024 --- Aug 2024][Hong Kong, CN]
+
+	Eccom is a networking company.
+	- Worked with Cisco, Huawei routers, and FortiNet firewalls
+	- Learned contents from CCNA and HCIA
+	- Participated in a bank office relocation project
+	#h(1cm)
+
+    === _Tencent Security Xuanwu Lab_\
     #term[Jul 2023 --- Aug 2023][Beijing, CN]
 
     Xuanwu Lab is a cybersecurity lab that focuses on finding vulnerabilities in a range of platforms.
     - Worked on finetuning a Large Language Model (LLM) for general security tasks such as vulnerability analysis
     - Researched attack and defense methods for LLM models on security threats such as prompt injection and prompt leaking
     - Wrote a LLM powered group chat backend in python as a target
+
+	== Experiences
 
     === Tencent Spark Program\
     #term[2021 --- 2023][Shenzhen/Beijing, CN]
@@ -38,12 +48,14 @@
     - Participated in #styled-link("https://defcon.org/html/defcon-31/dc-31-contest-results.html")[DEF CON CTF 2023] as a member of _#link("https://ctftime.org/team/222421")[P1G BuT S4D]_
     - Continues to participate in CTFs with _#styled-link("https://r3kapig.com/")[r3kapig]_
 
-    === Caltech Hackathon 2024
+    === Caltech Hackathon 2024\
     #term[Apr 2024][Remote]
 
     Participated and won the #link("https://hacktech2024.devpost.com/")["Caltech Hackathon 2024"] Beginner track.
     - Developed #styled-link("https://devpost.com/software/health-conditions-vitapredict")[VitaPredict] with a team of 4
     - a python based web app that predicts risk of skin cancer based on a self trained model
+
+    #colbreak()
 
     == Education
 
@@ -53,8 +65,6 @@
 
     - Sophomore student working towards a B.S in Computer Science (In Progress).
     - Cumulative GPA of 3.6/4.0
-
-    #colbreak()
 
     == Interests
 
@@ -67,13 +77,11 @@
     == Projects
 
     ==== Homelab\
-    - Hosted various service across geological regions on cloud services and on-premise bare metal servers
-    - Using Proxmox VE hypervisor and Docker to host Nextcloud, Mail, Game Servers, and other services
+    - Hosted various VMs and containers across geological regions on cloud services and bare metal
     - Adept at storage technology with RAID, ZFS, and SMB
     - Familiar with Ubuntu and RHEL based operating systems
     - Experienced with networking, reverse proxying, remote accessing services via Tailscale, Wireguard and Caddy
-    - Familiar DNS for domain resolution
-    - Managed backup and recovery of services with snapshot management via Proxmox Backup Server
+    - Managed backup and recovery of services with snapshot management via Proxmox Backup Server and Restic with s3 buckets
 
     ==== #styled-link("https://github.com/CookieUzen/mangascribe")[Mangascribe]\
     - Work in progress manager for manga written in Go
@@ -87,25 +95,11 @@
     - Case designed using OpenScad, a 3D modeling programing language
     - Assembled and modified #styled-link("https://github.com/foostan/Crkbd")[crkbd] with ZMK to support bluetooth
 
-    ==== LLM Research\
-    - Worked on a collection of attack vectors for Large Language Models
-
-    ==== #styled-link("https://github.com/CookieUzen/bad-apple-tty")[Bad Apple TTY]\
-    - A simple terminal video player written in Go
-    - Uses ANSI escape codes to display video frames processed with OpenCV
-    - Optimized for low latency and allows frameskipping for slow terminals
-
-    ==== #styled-link("https://web-notes.xyz")[Web Notes]\
-    - High school project to provide IB DP study notes hosted via Jekyll on GitHub Pages
-    - Written in markdown, html, and KaTeX
-
-    #colbreak()
     == Skills
     - Experienced with Linux system administration
     - Experienced with Docker, Proxmox, Caddy, Wireguard, Tailscale
     - Familiar with Python, Go, Java, Bash, C
     - Familiar with common Unix tools such as Vim, SSH, Grep, Sed, etc.
     - Novice in databases such as MongoDB, Sqlite, and Cassandra
-    - Learning streaming frameworks such as Kafka
   ],
 )
