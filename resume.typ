@@ -3,10 +3,11 @@
 #alta(
   name: "Uzen Huang",
   links: (
+    (name: "email", link: "mailto:uzen.huang@gmail.com"),
     (name: "email", link: "mailto:uzen@cookieuz.io"),
     // (name: "website", link: "https://example.com/", display: "example.com"),
     (name: "github", link: "https://github.com/CookieUzen", display: "@CookieUzen"),
-    (name: "linkedin", link: "www.linkedin.com/in/uzen-huang-053423238", display: "Uzen Huang"),
+    (name: "linkedin", link: "www.linkedin.com/in/cookieuzen", display: "Uzen Huang"),
   ),
   tagline: [Computer Science student exploring new platforms of computation],
   [
