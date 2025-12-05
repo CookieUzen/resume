@@ -82,7 +82,7 @@
     author: name,
   )
   //set text(9.5pt, font: "IBM Plex Sans")
-  set text(8.5pt, font: "IBM Plex Sans")
+  set text(9pt, font: "IBM Plex Sans")
   set page(
     margin: (x: 54pt, y: 52pt),
   )

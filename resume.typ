@@ -14,7 +14,7 @@
     == Internship
 
     === _Eccom HK_\
-	#term[July 2024 --- Aug 2024][Hong Kong, CN]
+	  #term[July 2024 --- Aug 2024][Hong Kong, CN]
 
         Eccom HK is a leading networking solutions provider, serving both mainland and international clients.
         - Configured and troubleshot Cisco and Huawei routers, as well as FortiNet firewalls.
@@ -42,7 +42,7 @@
     - Lead fellow peer mentors to organize the AI Security path in 2023
 
     === DEF CON CTF 2023\ 
-    _#styled-link("https://ctftime.org/team/222421")[P1G BuT S4D]_\
+    // _#styled-link("https://ctftime.org/team/222421")[P1G BuT S4D]_\
     #term[Aug 2023][Remote]
 
     DEF CON CTF is an internationally renowed Capture The Flag (cybersecurity competition) event where selected teams participates over 3 days to solve difficult puzzles.
@@ -64,15 +64,22 @@
     _University of Wisconsin Madison_\
     #term[Sep 2022 --- May 2026][Wisconsin, US]
 
-    - Sophomore student working towards a B.S in Computer Science (In Progress).
+    - B.S in Computer Science (In Progress).
     - Cumulative GPA of 3.7/4.0
+      - CS642 Intro to Information Security: A
+      - CS537 Intro to Operating Systems: A
+      - CS544 Intro to Big Data Systems: A
+
+    _Kyoto University_\
+    #term[Oct 2025 --- Sep 2026][Kyoto, JP]
+    - One year exchange
 
     == Skills
-    - Experienced with Linux system administration
-    - Experienced with Docker, Proxmox, Caddy, Wireguard, Tailscale
+    - Experienced with Linux (Ubuntu/RHEL/Nix/Arch)
+    - Experienced with Docker, Proxmox, Caddy, Wireguard
     - Familiar with Python, Go, Java, Bash, C
-    - Familiar with common Unix tools such as Vim, SSH, Grep, Tmux, etc.
-    - Novice in databases such as MongoDB, Sqlite, and Cassandra
+    - Familiar with shell such as Fish, Vim, SSH, Grep, Tmux
+    - Novice in databases such as Sqlite, Cassandra
 
     == Projects
 
@@ -81,28 +88,38 @@
     - Adept at storage technology with RAID, ZFS, and SMB
     - Familiar with Ubuntu and RHEL based operating systems
     - Experienced with networking, reverse proxying, remote accessing services via Wireguard, Tailscale, and Caddy
-    - Managed backup and recovery of services with snapshot management via Proxmox Backup Server and Restic with s3 buckets
+    - Managed backup and recovery with snapshot management via Proxmox Backup Server and Restic with s3 buckets
+    
+    ==== #styled-link("https://cookieuzen.itch.io/bloomfield")[Bloomfield]\
+    - Farming game written in JavaScript and Phaser
+    - Lead a team of 5 student/beginners with varying background
+    - #styled-link("https://education.wisc.edu/news/uw-madison-game-design-students-earn-international-recognition-for-game-addressing-global-hunger/")[Finalist for 2025 Games for Change Student Challenge]
 
-    ==== #styled-link("https://github.com/CookieUzen/mangascribe")[Mangascribe]\
-    - Work in progress manager for manga written in Go
-    - Supports expansion to multiple difference sources for download APIs
-    - Uses Gorm (ORM) and Sqlite for storing metadata in database 
-    - Leverages Gin for a RESTful API endpoint
-    - Employs API keys and session tokens for authentication
+    ==== #styled-link("https://github.com/CookieUzen/spacetime")[Spacetime]\
+    - A multiplayer spaceship game
+    - Made using Godot engine
+    - Features server side netcode to play online
 
-    ==== Keyboard Design\
-    - Designed and manufactured #styled-link("https://github.com/catmunch/macrocat")[MacroCat], a 3D printed macropad
-    - Case designed using OpenScad, a 3D modeling programing language
-    - Manufactured and soldered #styled-link("https://github.com/foostan/Crkbd")[crkbd] with ZMK to support bluetooth
+    // ==== #styled-link("https://github.com/CookieUzen/mangascribe")[Mangascribe]\
+    // - Work in progress manager for manga written in Go
+    // - Supports expansion to multiple difference sources for download APIs
+    // - Uses Gorm (ORM) and Sqlite for storing metadata in database 
+    // - Leverages Gin for a RESTful API endpoint
+    // - Employs API keys and session tokens for authentication
+
+    // ==== Keyboard Design\
+    // - Designed and manufactured #styled-link("https://github.com/catmunch/macrocat")[MacroCat], a 3D printed macropad
+    // - Case designed using OpenScad, a 3D modeling programing language
+    // - Manufactured and soldered #styled-link("https://github.com/foostan/Crkbd")[crkbd] with ZMK to support bluetooth
 
     == Interests
 
-    - NeoVim/Exploring different flavors of Linux (#styled-link("https://github.com/CookieUzen/dotfiles")[dotfiles])
+    - Game design and Programming
+    - Learning Nix: (#styled-link("https://github.com/CookieUzen/nixvim")[nixvim] and #styled-link("https://github.com/CookieUzen/home-manager")[home-manager])
     - Cyber Security and Natural Language Processing
     - Hypervisors and Containers
     - Networking
     - Computer hardware and building systems
-    
 
     == Languages
 
